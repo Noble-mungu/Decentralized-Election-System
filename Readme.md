@@ -15,8 +15,11 @@ through smart contracts
 
 ## WHY DAO?
 A DAO is a community-driven decentralized autonomous organisation.
-It will help us achieve impartiality delegating the duties of the citizens and social causes.
-We will use the dao to fund protests, manage protests and civic demos and communically manage our operations.
+The main objective of electronic voting technology is to accelerate the process of counting 
+ballots, reduce the costs associated with manual vote tallying, and improve inclusivity for 
+voters with disabilities. This objective can be achieved by designing and developing a 
+software platform for tasks such as voter registration, casting votes in elections, real-time 
+compilation and monitoring of election outcomes, and importantly, facilitating remote voting.
 
 
 ## STACK 
@@ -26,13 +29,13 @@ We will use the dao to fund protests, manage protests and civic demos and commun
 This is the foundation of the system and defines how votes are validated and added to the network. Examples include blockchains like Ethereum, Solana, or Hyperledger Fabric. </br>
 2. Data Layer:</br>
 
-This layer deals with storing and retrieving data in a decentralized manner. Options include InterPlanetary File System (IPFS) for permanent storage and Filecoin for incentivized storage solutions.
+This layer deals with storing and retrieving data in a decentralized manner. Options include InterPlanetary File System (IPFS) for permanent storage and Filecoin for incentivized storage solutions.</br>
 3. Contract Layer:</br>
 
 This layer allows for the creation of self-executing contracts, known as smart contracts. Popular smart contract languages include Solidity (Ethereum), Rust (Solana), and Chaincode (Hyperledger Fabric).</br>
 4. Application Layer:</br>
 
-This layer focuses on building user-facing applications that interact with the decentralized protocols and data. Developers can leverage libraries and frameworks like React or Angular for front-end development, and Web3.js or Ethers.js for interacting with blockchains.
+This layer focuses on building user-facing applications that interact with the decentralized protocols and data. Developers can leverage libraries and frameworks like React or Angular for front-end development, and Web3.js or Ethers.js for interacting with blockchains.</br>
 5. Incentive Layer (Optional):</br>
 
 In some decentralized systems, there might be a layer dedicated to providing economic incentives to users who participate in the network. This can be achieved through staking mechanisms or token rewards.
