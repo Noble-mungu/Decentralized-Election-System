@@ -14,12 +14,9 @@ through smart contracts
 
 
 ## WHY DAO?
-A DAO is a community-driven decentralized autonomous organisation.
-The main objective of electronic voting technology is to accelerate the process of counting 
-ballots, reduce the costs associated with manual vote tallying, and improve inclusivity for 
-voters with disabilities. This objective can be achieved by designing and developing a 
-software platform for tasks such as voter registration, casting votes in elections, real-time 
-compilation and monitoring of election outcomes, and importantly, facilitating remote voting.
+A DAO (Decentralized Autonomous Organization) aligns with the principles outlined in Article One of the Kenyan Constitution, which emphasizes the power of the people. By moving away from central governance, DAOs empower communities to recall or elect representatives more efficiently. The use of blockchain technology in a DAO ensures immutability, meaning once data is recorded on the blockchain, it cannot be altered. This feature can significantly curb electoral malpractice and enhance accountability in public resource management.
+
+To further these objectives, a software platform can be developed to facilitate tasks such as voter registration, casting votes in elections, real-time compilation and monitoring of election outcomes, and enabling remote voting. This platform would leverage electronic voting technology to accelerate the ballot-counting process, reduce costs associated with manual vote tallying, and improve inclusivity for voters with disabilities.
 
 
 ## STACK 
